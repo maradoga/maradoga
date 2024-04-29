@@ -1,4 +1,7 @@
-### Hi there 👋
+# About me
+A geospatial data analyst with 20 years experience in the water industry.
+
+👨‍🎓 I’m currently learning python and SQL, and recently started using GitHub.
 
 <!--
 **maradoga/maradoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
